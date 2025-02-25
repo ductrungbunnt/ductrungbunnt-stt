@@ -1,2 +1,1 @@
-# ductrungbunnt-stt
-Bài thi 
+# hocTapChuyenDoiSo
